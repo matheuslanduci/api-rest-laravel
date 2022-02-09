@@ -1,4 +1,4 @@
-<img alt="Repository - Laravel API Restful." src="https://i.imgur.com/tXJnhQQ.png>
+<img alt="Repository - Laravel API Restful." src="https://i.imgur.com/tXJnhQQ.png">
 <h2 align="center">
   Rest API Laravel
 </h2>
